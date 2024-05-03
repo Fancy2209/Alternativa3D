@@ -26,22 +26,22 @@ We will gladly partner with ambitious professionals to develop features that wil
 
 ## Projects using Alternativa3D
 
- [![Play](https://alternativaplatform.github.io/Alternativa3D/images/combatsector \(cover\).jpg)](http://game.combatsector.com?instant=1)   
+ [![Play](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%20(cover).jpg)](http://game.combatsector.com?instant=1)   
  MMO Top-Down Shooter game based on futuristic gladiator fights   
- [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector 1.png)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector 2.png)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector 3.png) ]  
- [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector 4.png)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector 5.jpg)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%201.png)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%202.png)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%203.png) ]  
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%204.png)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/combatsector%205.jpg)]
  <br />
 
- [![Play](https://alternativaplatform.github.io/Alternativa3D/images/deadzone \(cover\).jpg)](http://apps.facebook.com/laststand-deadzone/?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=2_0)   
+ [![Play](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%20(cover).jpg)](http://apps.facebook.com/laststand-deadzone/?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=2_0)   
  MMO RPG game - post-apocalyptic survival after a virus has transformed people into zombies.  
- [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone 1.jpg)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone 2.jpg)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone 3.jpg) ]  
- [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone 4.jpg)]
- [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone 5.jpg)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%201.jpg)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%202.jpg)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%203.jpg) ]  
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%204.jpg)]
+ [![](https://alternativaplatform.github.io/Alternativa3D/images/deadzone%205.jpg)]
 
 ## Videos
 [![Play](https://alternativaplatform.github.io/Alternativa3D/images/maxracer\(video\).jpg)](http://www.youtube.com/watch?v=tgwi0lWgX8w)
